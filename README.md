@@ -1,6 +1,6 @@
 # Gigabyte Z690 Aorus Elite DDR4 + i9 12900K + RX 6600 XT + Fenvi BCM94360NG
 
-![about-12 3 1](https://user-images.githubusercontent.com/23700365/161353027-9aaeddf5-7457-49a8-b322-4e99ab94c679.png)
+![about-12 4](https://github.com/mmollet/EFI-GIGABYTE-Z690-AORUS-ELITE-AX-12900K-RX6900XT/blob/main/Infos/about12_4.png))
 
 **Latest working macOS**: 12.4
 <br>
